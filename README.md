@@ -6,5 +6,5 @@ installing steps
 4.go run main.go
 
 [Link Text][2]
-[1]:[http://localhost:8080/hello]
+[1]:(http://localhost:8080/hello)
 [2]:(http://localhost:8080/weather/bengaluru) {name any city in place of Bengaluru)
